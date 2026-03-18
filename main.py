@@ -8,7 +8,7 @@ from datetime import datetime, timedelta, timezone
 RSS_URL = "https://rss.app/feeds/1IQu204TDxPM0wVW.xml"
 
 # 抽出したいキーワード
-KEYWORDS = ["インターン", "マイページ", "サマーインターン"]
+KEYWORDS = ["インターン", "マイページ", "サマーインターン","選考","エントリー"]
 
 # 結果を保存するファイル
 OUTPUT_FILE = "results.md"
