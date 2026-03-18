@@ -4,7 +4,7 @@ from datetime import datetime, timedelta, timezone
 
 # --- 設定項目 ---
 # RSS.appなどで取得した就活亀さんのRSSフィードのURLに書き換えてください
-RSS_URL = "ここに取得したRSSのURLを貼り付けてください"
+RSS_URL = "https://rss.app/feed/1IQu204TDxPM0wVW"
 
 # 抽出したいキーワード
 KEYWORDS = ["インターン", "マイページ", "サマーインターン"]
