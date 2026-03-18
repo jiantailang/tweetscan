@@ -1,36 +1,38 @@
-name: Tweet Monitor
+name: Tweet Scanner
 
 on:
   schedule:
-    # 2日に1回、日本時間の午前9時（UTC 0:00）に実行
+    # 2日に1回、UTC時間の0時 (日本時間の午前9時) に実行
     - cron: '0 0 */2 * *'
-  workflow_dispatch: # 手動で実行できるボタンを有効化
+  workflow_dispatch: # GitHubの画面から手動で「Run workflow」ボタンを押して実行できるようにする設定
 
-# 実行した結果のファイルをリポジトリへ書き込むための権限
 permissions:
-  contents: write
-
-# Node.js 20の非推奨警告を回避するための環境変数
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  contents: write # 実行結果(results.md)をリポジトリに保存するための権限
 
 jobs:
-  build:
+  scan-tweets:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+
       - name: Install dependencies
-        run: pip install feedparser
-      - name: Run Script
+        run: pip install feedparser requests
+
+      - name: Run script
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python main.py
-      - name: Commit and Push
+
+      - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add results.md || true
-          git commit -m "Update filtered tweets" || exit 0
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add results.md
+          git commit -m "自動更新: 新しいツイートを記録" || echo "変更がないためコミットをスキップします"
           git push

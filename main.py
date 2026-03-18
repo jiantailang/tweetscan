@@ -1,5 +1,6 @@
 import feedparser
 import os
+import requests
 from datetime import datetime, timedelta, timezone
 
 # --- 設定項目 ---
@@ -12,6 +13,26 @@ KEYWORDS = ["インターン", "マイページ", "サマーインターン"]
 # 結果を保存するファイル
 OUTPUT_FILE = "results.md"
 # ----------------
+
+def send_discord(new_tweets):
+    webhook_url = os.environ.get("DISCORD_WEBHOOK_URL")
+    if not webhook_url:
+        print("Discord Webhook URLが設定されていないため、通知はスキップします。")
+        return
+
+    content = "<@793470953375006761>\n🐢 **就活亀さん 新着抽出ツイート**\n\n"
+    for tweet in new_tweets:
+        content += tweet + "\n"
+    
+    # Discordの文字数制限(2000文字)対策として、少し余裕を持たせて切り詰める
+    payload = {"content": content[:1990]}
+    
+    try:
+        res = requests.post(webhook_url, json=payload)
+        res.raise_for_status()
+        print("Discordへ通知を送信しました！")
+    except Exception as e:
+        print(f"Discordへの送信に失敗しました: {e}")
 
 def main():
     # JST（日本時間）の設定
@@ -57,6 +78,7 @@ def main():
             for tweet in new_tweets:
                 f.write(tweet + "\n")
         print(f"{len(new_tweets)}件の新しい該当ツイートを保存しました！")
+        send_discord(new_tweets)
     else:
         print("新しく該当するツイートはありませんでした。")
 
