@@ -10,6 +10,10 @@ on:
 permissions:
   contents: write
 
+# Node.js 20の非推奨警告を回避するための環境変数
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -27,6 +31,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add results.md
+          git add results.md || true
           git commit -m "Update filtered tweets" || exit 0
           git push
