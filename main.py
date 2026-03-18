@@ -81,6 +81,22 @@ def main():
         send_discord(new_tweets)
     else:
         print("新しく該当するツイートはありませんでした。")
+        
+        # --- 初回動作確認用（1回だけ実行） ---
+        if "【テスト送信完了】" not in existing_content:
+            print("初回の動作確認として、最新の該当ツイートを1件取得してDiscordに送信します。")
+            for entry in feed.entries:
+                text = f"{entry.get('title', '')} {entry.get('description', '')}"
+                if any(keyword in text for keyword in KEYWORDS):
+                    link = entry.link
+                    test_tweet = f"- [動作テスト] {text[:60]}... \n  [👉 ツイートを見る]({link})\n"
+                    send_discord(["※これはプログラムの初回動作確認メッセージです！\n" + test_tweet])
+                    break
+
+    # 今後テストが暴発しないように、初回実行時にフラグを書き込む
+    if "【テスト送信完了】" not in existing_content:
+        with open(OUTPUT_FILE, 'a', encoding="utf-8") as f:
+            f.write("\n<!-- 【テスト送信完了】 -->\n")
 
 if __name__ == "__main__":
     main()
