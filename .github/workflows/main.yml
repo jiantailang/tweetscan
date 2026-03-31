@@ -33,6 +33,11 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add results.md || echo "results.mdが存在しないためスキップします"
-          git commit -m "自動更新: 新しいツイートを記録" || echo "変更がないためコミットをスキップします"
-          git push
+          git add results.md
+          # 変更がある場合のみコミットとプッシュを行う
+          if ! git diff --staged --quiet; then
+            git commit -m "自動更新: 新しいツイートを記録"
+            git push
+          else
+            echo "変更がないためコミットをスキップします"
+          fi
