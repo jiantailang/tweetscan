@@ -5,7 +5,7 @@ from datetime import datetime, timedelta, timezone
 
 # --- 設定項目 ---
 # RSS.appなどで取得した就活亀さんのRSSフィードのURLに書き換えてください
-RSS_URL = "https://rss.app/feeds/1IQu204TDxPM0wVW.xml"
+RSS_URL = "https://nitter.net/syukatsukame/rss"
 
 # 抽出したいキーワード
 KEYWORDS = ["インターン", "マイページ", "サマーインターン","選考","エントリー"]
