@@ -37,7 +37,9 @@ jobs:
           # 変更がある場合のみコミットとプッシュを行う
           if ! git diff --staged --quiet; then
             git commit -m "自動更新: 新しいツイートを記録"
-            git push
+            # プッシュ前にGitHub上の最新の変更を取り込んで競合を防ぐ
+            git pull origin main --rebase
+            git push origin main
           else
             echo "変更がないためコミットをスキップします"
           fi
