@@ -2893,3 +2893,97 @@ JCBの夏期3daysプログラム選考会へ参加いただくには「JCB 1day 
 技術系：早... 
   [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2058718390861324605#m)
 
+## 📅 2026-05-27 12:34:10 取得分
+
+- [Wed, 27 May 2026 02:53:34 GMT] 【28卒：締切間近の注目インターン紹介】
+
+りそなグループ
+
+締切：6/3 9:00
+
+ESの設問は画像にまとめています... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059468023900336406#m)
+
+- [Wed, 27 May 2026 02:46:01 GMT] 【28卒：6月締め切りの注目インターン】
+
+野村不動産（現場配属型5daysインターンシップ）
+
+【締切】
+＜顔写真デー... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059466124505612637#m)
+
+- [Wed, 27 May 2026 02:37:50 GMT] 28卒要注意⚠️
+5/31締切の企業がかなり多いので、余裕を持ってES作成・Webテスト対策を進めていきましょう！
+
+・... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059464064447942935#m)
+
+- [Wed, 27 May 2026 02:26:02 GMT] 5/27更新 
+【28卒：既にインターン・セミナーの情報解禁をしているIT企業（SIer・メーカー系など）まとめ】
+
+め... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059461094587138317#m)
+
+- [Wed, 27 May 2026 02:07:05 GMT] 農林中央金庫きました！！
+本選考直結型ですね <p>農林中央金庫きました！！<br />
+本選考直結型ですね</p>
+<... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059456325999108256#m)
+
+- [Wed, 27 May 2026 02:03:39 GMT] 【速報】
+
+農林中央金庫、28卒向け夏インターン情報解禁。企業公式で「本選考接続型」と公式発表
+※まだエントリーは開始し... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059455461167137134#m)
+
+- [Wed, 27 May 2026 00:09:39 GMT] 5/27更新
+【28卒：インターン締切カレンダー】
+
+5月、6月締切まとめました。
+CTCやNTTデータなど、エントリー... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059426774094909784#m)
+
+- [Tue, 26 May 2026 11:51:03 GMT] 【28卒：面接基礎まとめ】
+
+面接の超超超基礎まとめました。
+当たり前すぎることかもしれませんが、必ず押さえておきましょ... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059240898920382464#m)
+
+- [Tue, 26 May 2026 11:32:20 GMT] 【28卒：締切間近の注目インターン】
+
+日本M&Aセンター
+
+締切：5/31(日)24:00
+
+【ES設問】
+①あなたが... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059236188104667299#m)
+
+- [Tue, 26 May 2026 11:26:52 GMT] 5/26更新
+【28卒：インフラ各社動向】
+
+インフラはかなり解禁しましたね。。。
+かなり早期化が進んでおり、サマーはか... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059234809676017952#m)
+
+- [Tue, 26 May 2026 11:00:52 GMT] 【速報】
+
+BIPROGY、28卒向け「AI Engineer/Data Scientist 5DAYS INTERNS... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059228268549873698#m)
+
+- [Tue, 26 May 2026 10:56:18 GMT] ガクチカ深掘り対策 <p>ガクチカ深掘り対策</p>
+<hr />
+<blockquote>
+<b>就活カメ＠28卒応援... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059227119658631364#m)
+
+- [Tue, 26 May 2026 07:56:39 GMT] RT by @syukatsukame: ガクチカの深掘り対策ができていない28卒の就活生はできれば5月末までに、遅くて... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059181909234851926#m)
+
+- [Tue, 26 May 2026 08:16:57 GMT] 【速報】
+
+大阪ガス、28卒向け夏インターンエントリー開始
+
+締切：6月18日（木）23：59 <p>【速報】<br /... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2059187018144633254#m)
+
