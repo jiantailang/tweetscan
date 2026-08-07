@@ -5433,3 +5433,56 @@ Speee、28卒本選考受付開始<...
 DNPフ... 
   [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2084514437919297962#m)
 
+## 📅 2026-08-07 11:31:01 取得分
+
+- [Fri, 07 Aug 2026 02:00:52 GMT] 【速報：Web SPIです（テスセンではないです）】 リコージャパン、仕事体験エントリー開始 ES提出〆切：8/31　　... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085546687360311729#m)
+
+- [Fri, 07 Aug 2026 01:56:14 GMT] 本選考直結型イベントきました！！！！！ とりあえず1社内定欲しい人は、絶対参加しよう！！ 本命企業の前に本選考を経験して... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085545520311967870#m)
+
+- [Fri, 07 Aug 2026 01:50:57 GMT] 【速報】 28卒向けイベント、JOBTV主催【早期スカウト型】本選考直結イベントエントリー開始。本選考直結型イベントきま... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085544193502625935#m)
+
+- [Fri, 07 Aug 2026 01:36:30 GMT] 農林中央金庫きました！！！！！ <p>農林中央金庫きました！！！！！</p>
+<hr />
+<blockquote>
+<... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085540557162721443#m)
+
+- [Fri, 07 Aug 2026 01:36:18 GMT] 【速報】 農林中央金庫、秋冬オープン・カンパニーエントリー開始 【エントリー期間】 8月7日（金）～8月31日（月） 【... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085540503127519408#m)
+
+- [Fri, 07 Aug 2026 00:04:36 GMT] 富士通冬インターンエントリー開始！！！エントリー期間がかなり短いので気をつけてください！！！ 詳細は引用元の投稿をご覧く... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085517425781707163#m)
+
+- [Fri, 07 Aug 2026 00:02:33 GMT] 【速報】 富士通、職場受入型・冬季有償インターンシップエントリー開始 【エントリー期間】 2026年8月7日（金）～20... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085516912143057320#m)
+
+- [Thu, 06 Aug 2026 23:58:15 GMT] 秋冬インターン、本選考の締切更新しました！！！ 秋冬インターンの締切が一気に増えてきました！！！ <p>秋冬インターン、... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085515829136011710#m)
+
+- [Thu, 06 Aug 2026 23:57:01 GMT] 8/7更新 【28卒：秋冬インターン・本選考締切カレンダー】 8月~10月締切更新しました。先日の投稿から更新した企業は... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085515517411172356#m)
+
+- [Thu, 06 Aug 2026 13:20:40 GMT] 8/6更新 【28卒：テレビ局締切まとめ】 8/11...東海テレビ 8/12...テレビ朝日、福岡放送 8/16...... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085355378301403617#m)
+
+- [Thu, 06 Aug 2026 13:02:35 GMT] 日本HP選考直結型です！！！ <p>日本HP選考直結型です！！！</p>
+<hr />
+<blockquote>
+<b>... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085350825556337060#m)
+
+- [Thu, 06 Aug 2026 12:52:29 GMT] 【速報】 日本HP、選考直結型インターンシップエントリー開始。 【エントリー期限】 セールス...2026年08月21日... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085348282956747216#m)
+
+- [Thu, 06 Aug 2026 12:52:29 GMT] R to @syukatsukame: 応募はこちら https://typeshukatsu.jp/company/1... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085348284911243373#m)
+
+- [Thu, 06 Aug 2026 12:43:05 GMT] 【速報】 日本郵船、9月開催 『NYK Career school』エントリー開始 応募期間（海上職　発展編） 8月6日... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085345917226586423#m)
+
+- [Thu, 06 Aug 2026 12:35:51 GMT] こちらのイベント、明日の参加枠まだあるっぽいです！！！！！ 興味のある就活生はいますぐ予約しよう！！詳しくは引用元の投稿... 
+  [👉 ツイートを見る](https://nitter.net/syukatsukame/status/2085344096433102924#m)
+
